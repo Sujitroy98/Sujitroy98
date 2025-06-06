@@ -1,5 +1,5 @@
  <div align="center"> 
-  <img height="300" src="[./image/Digital Nomad github.png/](https://github.com/Sujitroy98/Sujitroy98/blob/main/image/Digital%20Nomad%20%20github.png)>
+  <img height="300" src="image/Digital Nomad  github.png">
 </div> 
 
 ###
