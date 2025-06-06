@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">Investigation Associate @ Amazon by day <br>  Data wrangler & front-end tinkerer by night. <br> —</h4>
+<h4 align="center"> 👨‍💼Investigation Associate @ Amazon by day <br>  👨‍💻Data wrangler & front-end tinkerer by night. —</h4>
 
 ###
 
