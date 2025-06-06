@@ -2,7 +2,7 @@
   <img height="300" src="./image/Digital Nomad github.png/>
 ## </div> ##
 
-![image alt](image/Digital Nomad github.png)
+![image alt]([image/Digital Nomad github.png](https://github.com/Sujitroy98/Sujitroy98/blob/main/image/Digital%20Nomad%20%20github.png))
 
 ###
 
