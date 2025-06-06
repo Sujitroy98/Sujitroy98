@@ -2,6 +2,8 @@
   <img height="300" src="./image/Digital Nomad github.png/>
 </div>
 
+![image alt](image/Digital Nomad github.png)
+
 ###
 
 ###
