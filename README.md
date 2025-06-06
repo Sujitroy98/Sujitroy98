@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">A passionate frontend developer freshly minted from the realms of code and caffeine. Armed with a passion for pixels and a knack for turning design dreams into digital reality</h4>
+<h4 align="center">Investigation Associate @ Amazon by day <br>  Data wrangler & front-end tinkerer by night. <br> —</h4>
 
 ###
 
